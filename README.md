@@ -3,13 +3,13 @@
 CLAC is a multi-functional calculator application built with Java Swing. It provides a clean, user-friendly interface that switches between a Standard calculator for everyday math and a feature-rich Programmer calculator for number base conversions and operations.
 
 
-## ?? Key Features
+Key Features
 
-### 1. Standard Mode
+1. Standard Mode
 * Full support for basic arithmetic operations: **addition (+)**, **subtraction (-)**, **multiplication (*)**, and **division (/)**.
 * Handles mathematical order of operations using **parentheses ( )**.
 * Includes functions for **square root (?)** and **percentage (%)**.
-* **CE** and **del** buttons for easy input correction.
+* *CE* and *del* buttons for easy input correction.
 
 ### 2. Programmer Mode
 This is a powerful mode designed for developers and computer science students.
