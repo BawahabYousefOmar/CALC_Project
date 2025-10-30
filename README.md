@@ -25,15 +25,15 @@ This is a powerful mode designed for developers and computer science students.
 * **Night Mode:** A simple checkbox toggles a sleek, dark theme for the entire application.
 * **Precise Mode:** Allows you to toggle between showing full floating-point precision or a clean, rounded (2-decimal-place) result.
 
-## ??? Core Logic
+## Core Logic
 * **Expression Parsing:** The calculation engine uses a custom-built **Stack** (`Stack.java`) to parse and evaluate infix mathematical expressions. It correctly handles operator precedence and parentheses.
 * **Number Conversion:** All number base conversions (including for floating-point numbers) are handled by a dedicated `Decimal.java` utility class.
 
-## ?? Technologies Used
+## Technologies Used
 * **Java**
 * **Java Swing** (for the graphical user interface)
 
-## ?? How to Run
+## How to Run
 
 ### Option 1: Run the JAR file
 The easiest way to run the calculator is using the provided `.jar` file.
